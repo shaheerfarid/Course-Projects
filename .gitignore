@@ -1,1 +1,55 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+.idea_modules/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Data files (if you don't want to track large datasets)
+*.csv
+*.dat
+*.log
+
+# Model files (if they're too large)
+*.h5
+*.pkl
+*.pth
+*.ckpt
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+
+
 
